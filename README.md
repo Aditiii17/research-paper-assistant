@@ -6,15 +6,13 @@ An intelligent, AI-powered assistant for reading, summarizing, and querying rese
 
 ---
 
-## 🚀 Features
-
-- 📄 Upload and parse full academic PDF papers
-- 🧠 Generate **humanized summaries** (no rigid sectioning)
-- ❓ Ask **contextual questions** about the paper
-- ⚡ Real-time document embedding + FAISS-powered search
-- 🖥️ Runs on **Hugging Face Spaces**, **Google Colab**, or **locally**
-- 💸 Fully **free** and uses only **open-source models**
-
+🚀 Features
+📄 Upload and read full research papers (PDF)
+🧠 Get easy-to-understand summaries (like how humans explain)
+❓ Ask questions about the paper and get answers
+⚡ Fast search using smart matching (FAISS)
+🖥️ Works on Hugging Face, Google Colab, or your own laptop
+💸 100% free and uses open tools only
 ---
 
 ## 🧰 Tech Stack
@@ -117,15 +115,6 @@ Just paste the script into [Google Colab](https://colab.research.google.com/) an
   * `app.py`
   * `requirements.txt`
 * Click **Deploy**
-
----
-
-
-## 👨‍🏫 Ideal For
-
-* Students working on thesis/lit reviews
-* Researchers validating prior work
-* Anyone needing fast insights from academic documents
 
 ---
 
