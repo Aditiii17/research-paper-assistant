@@ -125,4 +125,9 @@ Just paste the script into [Google Colab](https://colab.research.google.com/) an
 
 ---
 
+###  Sceenshot
+<img width="1878" height="1040" alt="22 07 2025_17 42 07_REC" src="https://github.com/user-attachments/assets/4d41fe8c-6b2a-452a-9612-48d76d086024" />
+<img width="1876" height="1037" alt="22 07 2025_17 42 23_REC" src="https://github.com/user-attachments/assets/c35066bf-e71f-4be5-931a-3ccdd6eeb84b" />
+
+
 
