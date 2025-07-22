@@ -7,6 +7,7 @@ An intelligent, AI-powered assistant for reading, summarizing, and querying rese
 ---
 
 🚀 Features
+
 📄 Upload and read full research papers (PDF)
 🧠 Get easy-to-understand summaries (like how humans explain)
 ❓ Ask questions about the paper and get answers
