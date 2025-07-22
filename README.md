@@ -120,14 +120,6 @@ Just paste the script into [Google Colab](https://colab.research.google.com/) an
 
 ---
 
-## 🔄 Roadmap
-
-* [ ] Add download option for summary
-* [ ] Persistent Q\&A chat window
-* [ ] Offline LLM support with GGUF
-* [ ] Export results to Notion or Markdown
-
----
 
 ## 👨‍🏫 Ideal For
 
@@ -136,13 +128,5 @@ Just paste the script into [Google Colab](https://colab.research.google.com/) an
 * Anyone needing fast insights from academic documents
 
 ---
-
-## 📃 License
-
-MIT License — free for personal and commercial use.
-
----
-
-> Built with 🧠 by combining Hugging Face, FAISS, Gradio, and pure passion for AI in education.
 
 
