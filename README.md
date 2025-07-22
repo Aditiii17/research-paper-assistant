@@ -6,14 +6,20 @@ An intelligent, AI-powered assistant for reading, summarizing, and querying rese
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
-📄 Upload and read full research papers (PDF)
-🧠 Get easy-to-understand summaries (like how humans explain)
-❓ Ask questions about the paper and get answers
-⚡ Fast search using smart matching (FAISS)
-🖥️ Works on Hugging Face, Google Colab, or your own laptop
-💸 100% free and uses open tools only
+📄 upload and read pdf papers
+
+🧠 get easy summaries
+
+❓ ask questions and get answers
+
+⚡ fast smart search
+
+🖥️ runs on colab, hugging face, or locally
+
+💸 free and open tools
+
 ---
 
 ## 🧰 Tech Stack
